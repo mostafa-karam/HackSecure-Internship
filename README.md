@@ -70,7 +70,7 @@ Include screenshots in the `/screenshots/` folder for each project:
 ---
 
 ## 📄 Final Report
-See `final_report.pdf` or `Internship Final Report.md` for full documentation.
+See `final_report.pdf` for full documentation.
 
 ---
 
