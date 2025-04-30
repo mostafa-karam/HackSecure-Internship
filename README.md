@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HackSecure Internship Projects (2025)
 
 This repository contains the complete deliverables for my Cybersecurity Internship under **Hack Secure** as part of the **Red Teaming 2025 Batch**.
