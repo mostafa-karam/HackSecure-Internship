@@ -152,9 +152,4 @@ Include screenshots in the `/screenshots/` folder for each project:
 ## 📄 Final Report
 See `final_report.pdf` for full documentation.
 
----
 
-## 🙏 Acknowledgment
-Thanks to **Hack Secure**, my mentors **Mr. Aman Pandey** and **Mr. Prabhat Raj**, and the entire team for the opportunity and support during this internship.
-
->>>>>>> 698a9bcd2d177e4fe947ffcb62de259ed9569925
